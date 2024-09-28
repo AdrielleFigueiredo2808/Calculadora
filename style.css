@@ -9,7 +9,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #ffa1d8; 
+  background-color: #8A2BE2;
 }
 
 .calculator {
@@ -67,7 +67,7 @@ body {
 
 button:active {
   opacity: 0.9;
-  background-color: #e70070; 
+  background-color: #8A2BE2;
   transform: scale(0.98); 
 }
 
